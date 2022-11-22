@@ -35,8 +35,8 @@
     "postcss": "^7.0.32",
     "prettier": "^2.0.5",
     "react": "^16.13.1",
-    "react-native": "^0.62.2",
-    "tailwindcss": "^1.4.6"
+    "react-native": "^0.68.5",
+    "tailwindcss": "^1.9.6"
   },
   "dependencies": {
     "css": "^2.2.4",
@@ -44,8 +44,8 @@
   },
   "peerDependencies": {
     "postcss": "^7",
-    "react": "^16",
+    "react": "^17",
     "react-native": "^0",
-    "tailwindcss": "^1.4"
+    "tailwindcss": "^1.9"
   }
 }
